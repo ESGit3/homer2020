@@ -1,0 +1,10 @@
+nav {
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #454249;
+}
+
+nav a {
+    margin-left: 10px;
+}
+
