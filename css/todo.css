@@ -1,0 +1,18 @@
+nav {
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #454249;
+}
+
+nav a {
+    margin-left: 10px;
+}
+
+.page-footer {
+    background-color: #714E43;
+}
+
+.title {
+    padding: 30px 0;
+    text-align: center;
+}
